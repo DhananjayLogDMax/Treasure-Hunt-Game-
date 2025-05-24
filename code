@@ -281,7 +281,7 @@ int display_room_details(int id){
 
     if(playerAnswer<=0 || playerAnswer>4){
       getchar(); // Clear the newline character
-      printf("%s⚠ Kripya Aakhe khole aur dekh ke type kare %s\n", RED, NORMAL);
+      printf("%s⚠  That's not even close, champ. Try a number between 1 and 4, pretty please. %s\n", RED, NORMAL);
       playerAnswer=getIntegerInput(4);
     }
     playerAnswer--;
@@ -290,7 +290,7 @@ int display_room_details(int id){
       lives--;
       printf("%s🧙 %s: Wrong Anwer!%s\n%s❤ You have %d lives remaining.%s\n", RED, wizards[locations[id].hasWizard].name, NORMAL, RED, lives, NORMAL);
       if(lives==0){
-        printf("%s💀 Agle Janam Me Fir Try Kariyega%s", RED, NORMAL);
+        printf("%s💀Better luck next time, champ! Maybe Google the answers first?%s", RED, NORMAL);
         return -1;
       }
     }
@@ -380,7 +380,7 @@ int getIntegerInput(int range){
 
     if(status!=1){
       while(getchar()!='\n');
-      printf("%s⚠ Integer type karo nahi to (ARSH ji ka dialoge)!!!.%s\n", RED, NORMAL);
+      printf("%s⚠ Integers only, please! This isn't rocket science! %s\n", RED, NORMAL);
     }
     else{
       while(getchar()!='\n');
