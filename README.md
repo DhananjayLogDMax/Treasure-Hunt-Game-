@@ -1,2 +1,2 @@
 # Treasure-Hunt-Game-
-This is my DSA project at our University.
+This is my DSA project at my University.
