@@ -288,14 +288,14 @@ int display_room_details(int id){
     
     if(playerAnswer!=wizards[locations[id].hasWizard].question.correctAnswer){
       lives--;
-      printf("%s🧙 %s: Wrong Anwer!%s\n%s❤ You have %d lives remaining.%s\n", RED, wizards[locations[id].hasWizard].name, NORMAL, RED, lives, NORMAL);
+      printf("%s🧙 %s: Wrong Anwer!%s\n%s❤ You have %d lives remaining. %s\n", RED, wizards[locations[id].hasWizard].name, NORMAL, RED, lives, NORMAL);
       if(lives==0){
         printf("%s💀Better luck next time, champ! Maybe Google the answers first?%s", RED, NORMAL);
         return -1;
       }
     }
     else{
-      printf("%s🧙 %s: Correct! You may proceed on your quest.%s\n", GREEN, wizards[locations[id].hasWizard].name, NORMAL);
+      printf("%s🧙 %s: Correct! You may proceed on your quest. %s\n", GREEN, wizards[locations[id].hasWizard].name, NORMAL);
       wizards[locations[id].hasWizard].answered=1;
     }
   }
