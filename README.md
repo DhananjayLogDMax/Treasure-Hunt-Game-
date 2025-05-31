@@ -3,6 +3,7 @@
 *"Bazinga! Just kidding, this isn't about pranks - it's about TREASURE!"* 💰
 
 Hey there, fellow code warrior! 👋 Welcome to what might just be the most ridiculously awesome text-based adventure you'll stumble upon today. This baby right here? It's a magical treasure hunt that'll have you questioning your life choices while simultaneously having the time of your life! 🎢
+🎓 Academic Achievement Unlocked: This epic creation emerged from a DSA (Data Structures and Algorithms) project assignment, demonstrating that education becomes entertaining when you sprinkle in magical elements and cringe-worthy wordplay. Developed alongside my awesome buddy Hritik Kumar 👦 who likely wonders about our sanity just as much as I question mine! 🤝💻
 
 ## 🤔 So... What Even IS This Thing?
 
