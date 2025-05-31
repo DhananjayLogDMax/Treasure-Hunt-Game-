@@ -1,26 +1,35 @@
-# 🏰 Magical Treasure Hunt: A Castle Adventure Game 🗡️
+<h1 align="center"> 🏰✨ MAGICAL TREASURE HUNT ✨🗡️ </h1>
 
-*"Bazinga! Just kidding, this isn't about pranks - it's about TREASURE!"* 💰
+<p align="center">
+*"Bazinga! Just kidding, this isn't about pranks - it's about TREASURE!"*
+</p>
+
 <div align="center">
-<img scr=https://github.com/DhananjayLogDMax/Treasure-Hunt-Game-/blob/main/image/Voldemort.jpg>
+<img src="https://github.com/DhananjayLogDMax/Treasure-Hunt-Game-/blob/main/image/Voldemort.jpg" width="30%">
 </div>
 
-Hey there, fellow code warrior! 👋 Welcome to what might just be the most ridiculously awesome text-based adventure you'll stumble upon today. This baby right here? It's a magical treasure hunt that'll have you questioning your life choices while simultaneously having the time of your life! 🎢
 <br>
-🎓 Academic Achievement Unlocked: This epic creation emerged from a DSA (Data Structures and Algorithms) project assignment, demonstrating that education becomes entertaining when you sprinkle in magical elements and cringe-worthy wordplay. Developed alongside my awesome buddy Hritik Kumar 👦 who likely wonders about our sanity just as much as I question mine! 🤝💻
+
+Hey there, fellow code warrior! 👋 Welcome to what might just be the most ridiculously awesome text-based adventure you'll stumble upon today. This baby right here? It's a magical treasure hunt that'll have you questioning your life choices while simultaneously having the time of your life! 🎢
+
+**🎓 Academic Achievement Unlocked**: This epic creation emerged from a DSA (Data Structures and Algorithms) project assignment, demonstrating that education becomes entertaining when you sprinkle in magical elements and cringe-worthy wordplay. Developed alongside my awesome buddy <a href="https://github.com/hritik-kumar" target="_blank">Hritik Kumar</a> 👦 who likely wonders about our sanity just as much as I question mine! 🤝💻
+
+<br>
 
 ## 🤔 So... What Even IS This Thing?
 
 Imagine you're stuck in a terminal (shocking, I know), but instead of staring at boring system logs, you're exploring a freaking CASTLE! 🏰 This isn't your grandma's text adventure - oh no, this is a full-blown quest where you get to:
 
-- Wander around 10 different spooky/magical rooms
-- Get quizzed by wizards who are WAY too smart for their own good
-- Try not to die (spoiler alert: you might die)
-- Actually find some legendary treasure if you're not completely hopeless
+- 🚶‍♀️ Wander around 10 different spooky/magical rooms
+- 🧙‍♂️ Get quizzed by wizards who are WAY too smart for their own good
+- 💀 Try not to die (spoiler alert: you might die)
+- 💎 Actually find some legendary treasure if you're not completely hopeless
 
 Think of it as Dungeons & Dragons meets Harry Potter meets "Why Did I Choose Computer Science Again?" 🎲⚡
 
-### 🎪 What Makes This Game Absolutely Bonkers (In a Good Way)
+<br><br><br>
+
+## 🎯 What Makes This Game Absolutely Bonkers (In a Good Way)
 
 - 🏠 **10 Wild Locations**: From creepy dungeons to fancy libraries (because even adventurers need to read sometimes)
 - 🧙 **5 Wizard Encounters**: Each one more determined to stump you than the last
@@ -30,15 +39,15 @@ Think of it as Dungeons & Dragons meets Harry Potter meets "Why Did I Choose Com
 - ⏰ **Timer**: So you can see exactly how long it took you to either win or fail miserably
 - 👣 **Step Tracker**: For people who like numbers (you know who you are)
 
-## 🎯 The Mission (Should You Choose to Accept It)
-
-Your job is simple: **Find the treasure without dying**. That's it. That's literally it. 
-
-But here's the catch - there are these wizards hanging around who apparently have nothing better to do than ask you random questions about Harry Potter and life in general. Answer wrong? You lose a life. Answer wrong twice? Game over, buddy! 💀
-
-It's like taking a pop quiz, except the stakes are your digital life and your pride.
+<br><br><br>
 
 ## 🧙‍♀️ The Wizard Lineup (AKA Your New Worst Enemies)
+
+<div align="center">
+<img src="https://github.com/DhananjayLogDMax/Treasure-Hunt-Game-/blob/main/image/wizards.jpg" width="60%" alt="The Wizard Squad">
+</div>
+
+<br>
 
 ### 🎩 Dumbledore (The "Easy" One)
 *Asks about levitation charms*
@@ -60,7 +69,13 @@ It's like taking a pop quiz, except the stakes are your digital life and your pr
 *Dark magic expertise required*
 - Difficulty: "I should have studied harder" level
 
+<br><br><br>
+
 ## 🚀 How to Actually Play This Thing
+
+<div align="center">
+<img src="https://github.com/user-attachments/assets/45d4a9c6-aac4-4a55-b308-72a132f4b608" width="50%" alt="Coding in action">
+</div>
 
 ### What You Need:
 - A computer (obviously)
@@ -68,6 +83,8 @@ It's like taking a pop quiz, except the stakes are your digital life and your pr
 - Some basic Harry Potter knowledge (seriously, go watch the movies at least)
 - Patience (more than Sheldon has for people who don't understand theoretical physics)
 - Coffee (optional but highly recommended) ☕
+
+<br>
 
 ### 📥 Getting It Running:
 
@@ -85,6 +102,14 @@ gcc -o treasure_hunt treasure_hunt.c
 ./treasure_hunt
 ```
 
+### For Windows Users (Our Condolences):
+```cmd
+# Use WSL or suffer in silence
+# Or try: gcc treasure_hunt.c -o treasure_hunt.exe
+```
+
+<br><br>
+
 ### 🕹️ Actually Playing:
 
 1. **Start**: Run the thing and get ready for an adventure
@@ -94,6 +119,28 @@ gcc -o treasure_hunt treasure_hunt.c
 5. **Win**: Find that treasure room and claim victory
 6. **Quit**: Press 6 if you need to rage quit (no judgment here)
 
+### Controls (Because Apparently This Needs Explaining):
+- **1** - Go North ⬆️ (up, away from your problems)
+- **2** - Go South ⬇️ (down, toward your destiny)  
+- **3** - Go East ➡️ (right, because left is wrong)
+- **4** - Go West ⬅️ (left, but we don't talk about that)
+- **5** - Show Map 🗺️ (for when you're hopelessly lost)
+- **6** - Quit 🚪 (coward's way out)
+
+<br><br><br>
+
+## 📸 In-Game Screenshots
+
+<div align="center">
+<img src="https://github.com/DhananjayLogDMax/Treasure-Hunt-Game-/blob/main/image/gameplay1.jpg" width="50%"><img src="https://github.com/DhananjayLogDMax/Treasure-Hunt-Game-/blob/main/image/gameplay2.jpg" width="50%">
+</div>
+
+<div align="center">
+<img src="https://github.com/DhananjayLogDMax/Treasure-Hunt-Game-/blob/main/image/gameplay3.jpg" width="50%">
+</div>
+
+<br><br><br>
+
 ## 🔧 The Nerdy Technical Stuff
 
 For my fellow programming enthusiasts who care about the behind-the-scenes magic:
@@ -102,6 +149,7 @@ This isn't just some thrown-together code from a late-night coding session (alth
 
 ### 🏗️ Architecture That Actually Makes Sense:
 
+- **Language**: C (because we hate ourselves and love pointers)
 - **Room System**: Each location connects to others through a network of possibilities
 - **Wizard Logic**: Questions with multiple choice answers and proper validation
 - **Path Memory**: Stack-based tracking so you know where you've been
@@ -115,6 +163,16 @@ This isn't just some thrown-together code from a late-night coding session (alth
 #define RED "\033[1;31m"     // For when you definitely mess up
 ```
 
+### Code Statistics (That Nobody Asked For):
+- **Lines of Code**: 400+ (every single one fought for)
+- **Functions**: 15+ (decomposition is key, kids)
+- **Structs**: Room, Wizard, Question (the perfect trio)
+- **Debugging Hours**: We don't talk about those dark times
+- **Caffeine Intake**: Probably unhealthy levels
+- **Fun Factor**: Through the roof! 🚀
+
+<br><br><br>
+
 ## 🐞 Things That Might Not Work Perfectly
 
 Look, we're honest about our code:
@@ -122,8 +180,12 @@ Look, we're honest about our code:
 1. **Hagrid's Answer**: Might be slightly off, but he's always been a bit confused anyway
 2. **Memory Management**: We allocate things... freeing them is a work in progress
 3. **Spelling**: "Dumbeldore" instead of "Dumbledore" - it's called character building!
+4. **Wizards might judge your life choices** (working as intended)
+5. **You might get addicted to this pointless game** (seek help)
 
 These aren't bugs, they're "personality traits" of the software! 😅
+
+<br><br><br>
 
 ## 🎓 What You'll Learn
 
@@ -134,7 +196,15 @@ This project is actually educational (surprise!):
 - **Problem Solving**: Game logic and user experience
 - **Pop Culture**: Harry Potter trivia (arguably the most important skill)
 
+<br><br><br>
+
 ## 🤝 Want to Help Make It Better?
+
+<div align="center">
+<img src="https://github.com/user-attachments/assets/88c3409c-505d-474e-b4ce-e2cb4dbc8705" width="40%" alt="Join the madness">
+</div>
+
+<br>
 
 Got ideas? Found bugs? Think our jokes are terrible? 
 
@@ -144,15 +214,32 @@ Jump in and contribute! Just remember:
 - Big Bang Theory quotes get bonus points
 - Don't roast our variable names too hard
 
+### How to Contribute:
+1. Fork this repository (hit that button like it owes you money)
+2. Create a branch (`git checkout -b feature/amazing-addition`)
+3. Make your changes (try not to break everything)
+4. Test thoroughly (please, for the love of Dijkstra)
+5. Submit a pull request (explain your genius)
+
+<br><br><br>
+
 ## 📱 Find the Creators
+
+<div align="center">
+<img src="https://github.com/user-attachments/assets/0c4c1c7a-3844-4760-8519-1faeedf0ca36" width="40%" alt="Contact us">
+</div>
+
+<br>
 
 ### 🧑‍💻 DhananjayLogDMax
 
 - **GitHub**: [https://github.com/DhananjayLogDMax](https://github.com/DhananjayLogDMax) *(Where all the code magic happens)*
-- **LinkedIn**: *[Your LinkedIn goes here]* *(For professional stuff and networking)*
-- **Instagram**: *Nope, don't use it* *(Because who has time for endless scrolling when there's code to write?)*
+- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/your-profile) *(For professional stuff and networking)*
+- **Email**: your.email@example.com *(Professional inquiries and existential programming discussions)*
 
 *Fun Fact: I avoid most social media platforms because they're like infinite loops - easy to get stuck in and hard to break out of! LinkedIn is the exception because networking is important, unlike knowing what someone had for breakfast.* 🤓
+
+<br><br><br>
 
 ## 📚 The Story Behind This Madness
 
@@ -160,25 +247,47 @@ This whole project started as a **Data Structures and Algorithms assignment** th
 
 *"The best code is written by friends who aren't afraid to tell each other when their logic is completely wrong."* 🤝
 
-## 📊 Project Stats That Matter
+Here's the thing: *"Every great programmer started with a simple game, a lot of curiosity, and an unhealthy relationship with their compiler."*
 
-- **Code Lines**: 400+ (every single one fought for)
-- **Debugging Hours**: We don't talk about those dark times
-- **Caffeine Intake**: Probably unhealthy levels
-- **Fun Factor**: Through the roof! 🚀
+<br><br><br>
 
 ## 📄 Legal Stuff
 
-This project lives under the "Use It However You Want But We're Not Responsible If Things Go Wrong" license. Learn from it, change it, or just appreciate our amazing comments.
+This project lives under the "Use It However You Want But We're Not Responsible If Things Go Wrong" license. Learn from it, change it, or just appreciate our amazing comments. (Actually, it's probably MIT, but the sentiment remains.)
 
-## 🎉 Closing Thoughts
+<br><br><br>
 
-Here's the thing: *"Every great programmer started with a simple game, a lot of curiosity, and an unhealthy relationship with their compiler."*
+## 🙏 Acknowledgments
+
+- **Harry Potter Universe** - For providing riddle inspiration and childhood magic
+- **My Terminal** - For enduring countless compilation errors
+- **Stack Overflow** - My real programming teacher
+- **Coffee** - The true MVP of this project ☕
+- **My Sanity** - Sacrificed for your entertainment
+- **Anyone who actually plays this** - You're the real heroes
+
+<br><br><br>
+
+## 🎉 Final Words
+
+<div align="center">
+<img src="https://github.com/user-attachments/assets/55458d1b-58a8-40af-9bd0-b01b64192e3a" width="30%" alt="Victory dance">
+</div>
+
+<br>
+
+This game represents approximately 47 hours of our lives that we'll never get back, 23 cups of coffee, 8 existential crises, and 1 moment of pure satisfaction when it finally compiled without warnings.
 
 May your code compile without warnings, your logic flow like butter, and your treasure hunt be absolutely legendary! 🏆
+
+Now go forth and hunt some treasure, you magnificent code wizard! ⚔️🏰✨
+
+*May your pointers never be null, and may your segfaults be few.*
+
+**Happy Adventuring! 🎮✨**
 
 ---
 
 *P.S. If you made it through this entire README, you're officially part of the "I Actually Read Documentation" club. Membership perks include our respect and maybe a LinkedIn connection if you're lucky!* 🏅
 
-**Now go forth and hunt some treasure, you magnificent code wizard!** ⚔️🏰✨
+*P.P.S. - If you actually read this entire README, you either have too much time on your hands or you're procrastinating on something important. Either way, welcome to the club! 🤓*
