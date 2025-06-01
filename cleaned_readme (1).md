@@ -213,14 +213,12 @@ Jump in and contribute! Just remember:
 <td align="center">
 <b>🧑‍💻 DhananjayLogDMax</b><br>
 <a href="https://github.com/DhananjayLogDMax">GitHub</a> | 
-<a href="https://linkedin.com/in/dhananjay-profile">LinkedIn</a><br>
-<i>Code Architect & Wizard Whisperer</i>
+<a href="https://www.linkedin.com/in/dhananjaykumar-logdmax/">LinkedIn</a><br>
 </td>
 <td align="center">
 <b>👦 Hritik Kumar</b><br>
-<a href="https://github.com/hritik-kumar">GitHub</a> | 
-<a href="https://linkedin.com/in/hritik-kumar">LinkedIn</a><br>
-<i>Logic Master & Debug Ninja</i>
+<a href="https://github.com/Rolling-Thunder07">GitHub</a> | 
+<a href="https://www.linkedin.com/in/hritik-kumar-43a709302/">LinkedIn</a><br>
 </td>
 </tr>
 </table>
